@@ -14,6 +14,7 @@
 		494D50CA20027F1200A0063F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 494D50C820027F1200A0063F /* LaunchScreen.storyboard */; };
 		494D50D520027F1200A0063F /* wayFarerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494D50D420027F1200A0063F /* wayFarerTests.swift */; };
 		494D50E020027F1200A0063F /* wayFarerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494D50DF20027F1200A0063F /* wayFarerUITests.swift */; };
+		4962466D20074DAC00F353A0 /* MHTGraphSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4962466C20074DAC00F353A0 /* MHTGraphSearch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		494D50DB20027F1200A0063F /* wayFarerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = wayFarerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		494D50DF20027F1200A0063F /* wayFarerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wayFarerUITests.swift; sourceTree = "<group>"; };
 		494D50E120027F1200A0063F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4962466C20074DAC00F353A0 /* MHTGraphSearch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MHTGraphSearch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				494D50C120027F1200A0063F /* ViewController.swift */,
 				494D50C320027F1200A0063F /* Main.storyboard */,
 				494D50C620027F1200A0063F /* Assets.xcassets */,
+				4962466C20074DAC00F353A0 /* MHTGraphSearch.swift */,
 				494D50C820027F1200A0063F /* LaunchScreen.storyboard */,
 				494D50CB20027F1200A0063F /* Info.plist */,
 			);
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4962466D20074DAC00F353A0 /* MHTGraphSearch.swift in Sources */,
 				494D50C220027F1200A0063F /* ViewController.swift in Sources */,
 				494D50C020027F1200A0063F /* AppDelegate.swift in Sources */,
 			);
